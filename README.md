@@ -7,4 +7,5 @@ On the 28th I went my work to make sure everything is okay, but only to find out
 The day of submission was chaos because the Wifi was not working and I had to go to campus to finish my work.
 When I got home I struggled with CloudLabs, so I had to download Visual Studio Code 2022 on my laptop, to get my work done.
 I managed to do a screenrecording explaning my code.
+Coding
 
